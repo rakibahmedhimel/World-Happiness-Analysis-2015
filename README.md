@@ -13,22 +13,24 @@ This project explores global happiness data using the 2015 World Happiness Repor
 - Used: Report from the year 2015
 - No missing values, clean and ready to use
 
-## 🔍 Key Findings:
-- Strong positive correlation between GDP per capita and happiness
-- Top 10 happiest countries are mostly in Western Europe
-- Least happy countries have low GDP and high corruption perception
-- Region-wise differences clearly visible in average scores
+## 🖼️ Visual Outputs
+
+Here are some of the visualizations generated:
+
+| 📍 Plot | Preview |
+|--------|---------|
+| Top 10 Happiest Countries | ![Top 10](Asset/happiest.png) |
+| Least Happy Countries | ![Bottom 10](Asset/less_happy.png) |
+| Region-wise Comparison | ![Region Chart](Asset/region_mean.png) |
+| Region-Wise Mean Happiness | ![Heatmap](Asset/gdp.png) |
+
+> 📁 Make sure to store these 4 images in a `screenshots/` folder in your repo.
 
 ## 📈 Tools Used:
 - **Python**: Data analysis & visualization
 - **Pandas**: Data manipulation
 - **Seaborn & Matplotlib**: Visualization
 - **Jupyter Notebook**
-
-## 📂 Folder Contents:
-- `happiness_analysis.ipynb`: Main notebook
-- `happiness.csv`: Cleaned dataset (2015)
-- `README.md`: Project summary (this file)
 
 ## ✅ Skills Practiced:
 - Data Cleaning
@@ -37,4 +39,3 @@ This project explores global happiness data using the 2015 World Happiness Repor
 - Advanced Seaborn Charts
 
 ---
-
