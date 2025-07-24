@@ -24,8 +24,6 @@ Here are some of the visualizations generated:
 | Region-wise Comparison | ![Region Chart](Asset/region_mean.png) |
 | Region-Wise Mean Happiness | ![Heatmap](Asset/gdp.png) |
 
-> 📁 Make sure to store these 4 images in a `screenshots/` folder in your repo.
-
 ## 📈 Tools Used:
 - **Python**: Data analysis & visualization
 - **Pandas**: Data manipulation
