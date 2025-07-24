@@ -24,6 +24,9 @@ Here are some of the visualizations generated:
 | Region-wise Comparison | ![Region Chart](Asset/region_mean.png) |
 | Region-Wise Mean Happiness | ![Heatmap](Asset/gdp.png) |
 
+## How I Built This
+I downloaded the 2015 dataset, explored it using pandas, created visualizations using seaborn, and analyzed region-wise patterns. I used ChatGPT to understand unclear steps but wrote and tested all code myself.
+
 ## 📈 Tools Used:
 - **Python**: Data analysis & visualization
 - **Pandas**: Data manipulation
